@@ -1,4 +1,4 @@
-rootProject.name = "spacetimedb-kotest-extension"
+rootProject.name = "kotest-extensions-spacetimedb"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

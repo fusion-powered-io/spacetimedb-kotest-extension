@@ -39,7 +39,7 @@ publishing {
             pom {
                 name.set("SpacetimeDB Kotest Extension")
                 description.set("Kotest extension for testing with SpacetimeDB")
-                url.set("https://github.com/fusion-powered-io/spacetimedb-kotest-extension")
+                url.set("https://github.com/fusion-powered-io/kotest-extensions-spacetimedb")
                 licenses {
                     license {
                         name.set("Apache-2.0")
@@ -54,9 +54,9 @@ publishing {
                     }
                 }
                 scm {
-                    connection.set("scm:git:git://github.com/fusion-powered-io/spacetimedb-kotest-extension.git")
-                    developerConnection.set("scm:git:ssh://github.com/fusion-powered-io/spacetimedb-kotest-extension.git")
-                    url.set("https://github.com/fusion-powered-io/spacetimedb-kotest-extension")
+                    connection.set("scm:git:git://github.com/fusion-powered-io/kotest-extensions-spacetimedb.git")
+                    developerConnection.set("scm:git:ssh://github.com/fusion-powered-io/kotest-extensions-spacetimedb.git")
+                    url.set("https://github.com/fusion-powered-io/kotest-extensions-spacetimedb")
                 }
             }
         }
