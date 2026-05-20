@@ -6,7 +6,7 @@ plugins {
     id("signing")
 }
 
-group = "io.github.jessewb786"
+group = "io.fusionpowered"
 version = System.getenv("BACKEND_CLIENT_VERSION")?.takeIf { it.isNotBlank() } ?: "0.0.1-SNAPSHOT"
 
 kotlin {
