@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.1.0"
     }
   },
   "variants": [
@@ -64,11 +64,11 @@
         {
           "name": "spacetimedb-sdk-metadata-0.1.0.jar",
           "url": "spacetimedb-sdk-0.1.0.jar",
-          "size": 29913,
-          "sha512": "516c5d3a8df6ed72bc5a45a1d9d052c6a0c1d49eeadf31bc7d686effca64314e6c411debe75de2bfa1f8d790e2d3651fee69ee50afe8f65e45c7d01dab83bfb6",
-          "sha256": "af4d2c046dbc45ea35e3504b027e27d924de1027f48dc96e4d0d9dff395f4015",
-          "sha1": "deb7d81ebf52e4f7ca167d91969b13dcd0364844",
-          "md5": "b7683e83b9f63741fd8164116483a31f"
+          "size": 30406,
+          "sha512": "a4c37e4c3f332361aee9be34f96238d0db2e6122a0d799d8dd01b1fd1383119189e26260942b08a0cc23ea3b48dd2d9ff36548b59a78765993a3e043a95fa673",
+          "sha256": "0de3aa93e826a99a7105d0e9230fbc575290739f7793d3fd152d093cb585204e",
+          "sha1": "17a7abb68fe97ca225b906fb845628b551bc4d85",
+          "md5": "07a65f414696deb2e4a2238c56c8efa2"
         }
       ]
     },
@@ -86,11 +86,11 @@
         {
           "name": "spacetimedb-sdk-kotlin-0.1.0-sources.jar",
           "url": "spacetimedb-sdk-0.1.0-sources.jar",
-          "size": 29421,
-          "sha512": "2b2065127a36ec3d20902e7b8de583830a4f42eb4c5a9ca53a204952251eb951fc47242eeab75aeed87ba324463a7ca427b0a0607f5e6848a8dc4bc2f7e39d48",
-          "sha256": "e4a4a7f1512f0685e96c8dfe9b24b8979c5f766cff352e2aaeb4adf99c44c529",
-          "sha1": "08816e6b1fd60a50d15a95ebb80254c09bf98262",
-          "md5": "51ffe17831675121ee933a4b15c91fa9"
+          "size": 29747,
+          "sha512": "54f3a6d05ab3b4061b615803239c9096811643543f162f1cf1d43ccddd25492736c2ac84269fcf2c3fe97cce181d53d838f4fb20c9a74b5ece71d166175cff40",
+          "sha256": "efba6db7c336c589aadeb042923b702a68779cfd1be88bb3862dbc2d0aa0ecb1",
+          "sha1": "d1684b1cf88a9869715dd950911940991723fae1",
+          "md5": "242a81dee21807efb11c6f9606be6489"
         }
       ]
     },

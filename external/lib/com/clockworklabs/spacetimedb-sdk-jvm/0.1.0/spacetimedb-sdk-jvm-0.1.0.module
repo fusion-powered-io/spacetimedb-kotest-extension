@@ -11,7 +11,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.1.0"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "spacetimedb-sdk-jvm-0.1.0.jar",
           "url": "spacetimedb-sdk-jvm-0.1.0.jar",
-          "size": 260995,
-          "sha512": "045bb9e055673e275e9c83ece445bfed613aafb9dcd38f5fc9014a23619f66b5276575f18e675fa0f636f405f064075f6c06eb946f49e38cf89a3a5e81404f8d",
-          "sha256": "97442205640e1e76e2b1f6212cc56db057479ff006042d4ccc39bbb1ed2dd045",
-          "sha1": "157214a4db334f937cb3fcff42e8a95dcb4fadff",
-          "md5": "b0217f9d3e038ebb400c7e0f1c2aecec"
+          "size": 261790,
+          "sha512": "80bd2bd66878a65c4eecf6db7619f3af43c358da172416c7d5493a8bff51e57f49142ff7994ae21b481acf4d83da6a4fbfd4050e14b605f2feb61a42f161ea1d",
+          "sha256": "fbeeeddaa245bc1a1a37a754dea846ee6263ac60933a13df46f70296c44b913a",
+          "sha1": "0ab30b6c3f2980590a7ed38d5fb572c7729d845d",
+          "md5": "d66f6a1f40126ccfbdb094e6b9f51fbd"
         }
       ]
     },
@@ -103,11 +103,11 @@
         {
           "name": "spacetimedb-sdk-jvm-0.1.0.jar",
           "url": "spacetimedb-sdk-jvm-0.1.0.jar",
-          "size": 260995,
-          "sha512": "045bb9e055673e275e9c83ece445bfed613aafb9dcd38f5fc9014a23619f66b5276575f18e675fa0f636f405f064075f6c06eb946f49e38cf89a3a5e81404f8d",
-          "sha256": "97442205640e1e76e2b1f6212cc56db057479ff006042d4ccc39bbb1ed2dd045",
-          "sha1": "157214a4db334f937cb3fcff42e8a95dcb4fadff",
-          "md5": "b0217f9d3e038ebb400c7e0f1c2aecec"
+          "size": 261790,
+          "sha512": "80bd2bd66878a65c4eecf6db7619f3af43c358da172416c7d5493a8bff51e57f49142ff7994ae21b481acf4d83da6a4fbfd4050e14b605f2feb61a42f161ea1d",
+          "sha256": "fbeeeddaa245bc1a1a37a754dea846ee6263ac60933a13df46f70296c44b913a",
+          "sha1": "0ab30b6c3f2980590a7ed38d5fb572c7729d845d",
+          "md5": "d66f6a1f40126ccfbdb094e6b9f51fbd"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "spacetimedb-sdk-jvm-0.1.0-sources.jar",
           "url": "spacetimedb-sdk-jvm-0.1.0-sources.jar",
-          "size": 28623,
-          "sha512": "48d85dc34a98dff1ec80655304d4382352bb3278e0fbd7587184850ca9e73cd771d8093e6572c4bbe6be0735becadb80c3e9410021c34cc6bea566da29c31e7e",
-          "sha256": "0ee688a299c9b84da819143f9f8f2224277da15d86a3171486eba83cc17f06ca",
-          "sha1": "2db553075e63743d7c0b35825964000e5118559d",
-          "md5": "be37197a4079c960032af5dba3be1467"
+          "size": 28954,
+          "sha512": "d487ed03daa20fa0e87c8410e0a89c3aa42dca399dce8894971c3a4771af08424a6699a0be1a7c62afb7f2042dfeeca191500f0e02b8e33eda6cecb5204912be",
+          "sha256": "8b34b78883f1df61b4f51faab843edab906573cb4475c539fc01231fd1fc75e5",
+          "sha1": "06cc666891ec0ee7116e21cd1e21035542c423dd",
+          "md5": "f39c799fee79fb0ba4ba12c972822e06"
         }
       ]
     }

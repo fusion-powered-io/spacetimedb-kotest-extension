@@ -4,7 +4,6 @@ import com.clockworklabs.spacetimedb.DbConnection
 import io.jsonwebtoken.Jwts
 import io.kotest.core.listeners.AfterProjectListener
 import io.kotest.core.listeners.AfterTestListener
-import io.kotest.core.listeners.BeforeProjectListener
 import io.kotest.core.listeners.BeforeTestListener
 import io.kotest.core.test.TestCase
 import io.kotest.engine.test.TestResult
@@ -56,7 +55,6 @@ class SpacetimeDbExtension(
 
     init {
         cli("start")
-        cli("publish", moduleName, "--module-path", modulePath, "-s", url, "-c", "--yes")
         // Expose database connection details as system properties so frameworks (e.g. Spring) can pick them up
         System.setProperty("spacetime.url", url)
         System.setProperty("spacetime.module", moduleName)
@@ -96,6 +94,7 @@ class SpacetimeDbExtension(
      * Kotest before-test hook. Establishes the type-safe client connection before each test.
      */
     override suspend fun beforeTest(testCase: TestCase) {
+        cli("publish", moduleName, "--module-path", modulePath, "-s", url, "-c", "--yes")
         connection = DbConnection.builder()
             .withUri(url)
             .withModuleName(moduleName)
